@@ -1,6 +1,6 @@
 # Rock Climbers 🧗‍♀️
 
-A modern, brutalist-style website for the Jam Rock Climbers community in Jamaica. This site showcases our climbing events, activities, and stories while providing a platform for climbers to connect and join our adventures.
+A modern, brutalist-style website for the  Rock Climbers community in Jamaica. This site showcases our climbing events, activities, and stories while providing a platform for climbers to connect and join our adventures.
 
 ## ✨ Features
 
