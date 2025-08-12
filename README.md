@@ -157,9 +157,9 @@ Jam Rock Climbers is Jamaica's premier rock climbing community, dedicated to pro
 ## 📞 Contact
 
 - **Website**: [Your Website URL]
-- **Email**: info@jamrockclimbers.com
-- **Instagram**: @jamrockclimbers
-- **Facebook**: Jam Rock Climbers Jamaica
+- **Email**: info@rockclimbers.com
+- **Instagram**: @rockclimbers
+- **Facebook**: Rock Climbers 
 
 ---
 
