@@ -1,4 +1,4 @@
-# Jam Rock Climbers 🧗‍♀️
+# Rock Climbers 🧗‍♀️
 
 A modern, brutalist-style website for the Jam Rock Climbers community in Jamaica. This site showcases our climbing events, activities, and stories while providing a platform for climbers to connect and join our adventures.
 
@@ -15,7 +15,7 @@ A modern, brutalist-style website for the Jam Rock Climbers community in Jamaica
 ## 🗂️ Project Structure
 
 \`\`\`
-jam-rock-climbers/
+rock-climbers/
 ├── index.html              # Main HTML file
 ├── css/
 │   └── styles.css          # All CSS styles
@@ -44,7 +44,7 @@ jam-rock-climbers/
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/jam-rock-climbers.git
+   git clone https://github.com/yourusername/rock-climbers.git
    cd jam-rock-climbers
    \`\`\`
 
